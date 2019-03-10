@@ -9,6 +9,12 @@ The first custom renderer should be the title control with a large, title-sized 
 On Android, you can set the font using Control.FontSize.
 The title control should have blue text on iOS and green text on Android.  While the body text should be dark gray on both platforms.
 The second control will be the Editor control, which is basically a multiline edit control.  This control should take up all the available space below the title and have a much smaller font.
+All of the controls should have a solid line style border.  The project we did in class had this.
+
+I recorded the project we did in class, it is available here:
+https://www.youtube.com/watch?v=lpEwZavyJNA
+
+
 That's it!  This is a 30 point assignment.
 
 Happy Coding!
