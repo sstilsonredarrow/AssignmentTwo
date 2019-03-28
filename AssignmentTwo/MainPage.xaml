@@ -1,7 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:AssignmentTwo" x:Class="AssignmentTwo.MainPage">
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Grid x:Name="LoginGrid" RowSpacing="10" Padding="10, 50">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="250"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+            <local:TitleEntry x:Name="Title" Grid.Row="1" Grid.Column="0" Text="This is the Title!" HorizontalOptions="Center" />
+            <local:BodyEntry x:Name="Body" Grid.Row="2" Grid.Column="0" Text="This is the Body!" HorizontalOptions="Center" HeightRequest="400" />
+        </Grid>
     </StackLayout>
 </ContentPage>
