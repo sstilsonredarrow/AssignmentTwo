@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{556B8769-9CE3-45D8-B196-BCA590552970}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssignmentTwo.Android/Renderers/BodyRenderer.cs">
+    <Files>
+      <File FileName="AssignmentTwo/MainPage.xaml" Line="8" Column="122" />
+      <File FileName="AssignmentTwo/TitleEntry.cs" Line="8" Column="26" />
+      <File FileName="AssignmentTwo.iOS/Renderers/TitleRenderer.cs" Line="7" Column="1" />
+      <File FileName="AssignmentTwo/BodyEditor.cs" Line="9" Column="10" />
+      <File FileName="AssignmentTwo.iOS/Renderers/BodyRenderer.cs" Line="7" Column="1" />
+      <File FileName="AssignmentTwo.Android/Renderers/TitleRenderer.cs" Line="25" Column="38" />
+      <File FileName="AssignmentTwo.Android/Renderers/BodyRenderer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AssignmentTwo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E34B1BC7-A603-4692-9E6C-0382EDDBB6D4" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AssignmentTwo.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MultiItemStartupConfigurations />
+</Properties>

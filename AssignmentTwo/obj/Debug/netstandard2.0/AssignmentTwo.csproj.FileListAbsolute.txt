@@ -1,0 +1,12 @@
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/bin/Debug/netstandard2.0/AssignmentTwo.deps.json
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/bin/Debug/netstandard2.0/AssignmentTwo.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/bin/Debug/netstandard2.0/AssignmentTwo.pdb
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/obj/Debug/netstandard2.0/AssignmentTwo.csprojAssemblyReference.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/obj/Debug/netstandard2.0/AssignmentTwo.csproj.CoreCompileInputs.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/obj/Debug/netstandard2.0/AssignmentTwo.AssemblyInfoInputs.cache
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/obj/Debug/netstandard2.0/AssignmentTwo.AssemblyInfo.cs
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/obj/Debug/netstandard2.0/AssignmentTwo.dll
+/Users/itprogramadministrator/Source/Repos/AssignmentTwo/AssignmentTwo/AssignmentTwo/obj/Debug/netstandard2.0/AssignmentTwo.pdb

@@ -1,7 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:AssignmentTwo" x:Class="AssignmentTwo.MainPage">
-    <StackLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AssignmentTwo" 
+             x:Class="AssignmentTwo.MainPage">
+    <StackLayout Orientation="Vertical" Padding="10, 25, 10, 10">
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <local:TitleEntry x:Name="Title" Text="This is a Custom Title Entry" HorizontalOptions="Center" WidthRequest="250" Margin="10, 10, 10, 15"/>
+        <local:BodyEditor x:Name="Body" Text="This is the body text" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" WidthRequest="500" HeightRequest="650"/>
     </StackLayout>
 </ContentPage>
