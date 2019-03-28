@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{EC9E804F-1C48-460E-A368-F13E2DCC012D}|Default">
+  <MonoDevelop.Ide.ItemProperties.AssignmentTwo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2EA1C538-AB3E-4CDA-B14B-FB0C4C3D61DA" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssignmentTwo/MainPage.xaml">
+    <Files>
+      <File FileName="AssignmentTwo/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="AssignmentTwo/MainPage.xaml" Line="20" Column="15" />
+      <File FileName="AssignmentTwo/TextEntry.cs" Line="13" Column="1" />
+      <File FileName="AssignmentTwo.iOS/Renderers/TextRenderer.cs" Line="26" Column="1" />
+      <File FileName="AssignmentTwo.Android/Renderers/TextRenderer.cs" Line="23" Column="76" />
+      <File FileName="AssignmentTwo/TextEditor.cs" Line="13" Column="1" />
+      <File FileName="AssignmentTwo.Android/Renderers/EditorRenderer.cs" Line="29" Column="1" />
+      <File FileName="AssignmentTwo.iOS/Renderers/EditRenderer.cs" Line="26" Column="1" />
+      <File FileName="AssignmentTwo.Android/MainActivity.cs" Line="22" Column="1" />
+      <File FileName="AssignmentTwo.Android/Renderers/EditRenderer.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AssignmentTwo.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
